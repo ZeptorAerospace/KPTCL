@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  entry_date: 2013-04-28
+  transformer_one: 9.99
+  transformer_two: 9.99
+
+two:
+  entry_date: 2013-04-28
+  transformer_one: 9.99
+  transformer_two: 9.99
